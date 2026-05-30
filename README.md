@@ -21,7 +21,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=github,git,python,pytorch,opencv,vscode)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,flask,linux,docker,roboflow,jupyter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,flask,linux,docker,langchain,jupyter)](https://skillicons.dev)
 
 ---
 
