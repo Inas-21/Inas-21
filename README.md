@@ -2,7 +2,7 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Inas-21.Inas-21)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=AD5668&lines=Hello+World!+👋;I'm+Inas+Bentounsi!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=AD5668&lines=Hello+World!+🌸;I'm+Inas+Bentounsi!)
 
 ---
 
