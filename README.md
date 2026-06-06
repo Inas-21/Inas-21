@@ -6,7 +6,7 @@
 
 ---
 
-### 🛡️ AI Engineer & Data Scientist
+### AI Engineer & Data Scientist
 
 🔭 I'm currently working on **Multi-Agent System**
 
